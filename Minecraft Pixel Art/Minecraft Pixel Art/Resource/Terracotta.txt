@@ -1,0 +1,17 @@
+﻿white_terracotta #d3b6a3
+orange_terracotta #9f5224
+magenta_terracotta #93566b
+light_blue_terracotta #6d6a88
+yellow_terracotta #b78220
+lime_terracotta #677736
+pink_terracotta #9f4b4b
+gray_terracotta #392a23
+light_gray_terracotta #876a62
+cyan_terracotta #555a5a
+purple_terracotta #744555
+blue_terracotta #493a5b
+brown_terracotta #4c3223
+green_terracotta #4f572e
+red_terracotta #913e2f
+black_terracotta #271712
+terracotta #965d43
